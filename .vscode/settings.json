@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/50768925-3c61-484a-8e56-c2e3821b8e78/resourceGroups/enesGroup/providers/Microsoft.Web/sites/enesLotrSite",
+    "appService.deploySubpath": "."
+}
